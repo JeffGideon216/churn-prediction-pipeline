@@ -1,0 +1,20 @@
+# Modelos treinados (arquivos grandes)
+*.pkl
+*.keras
+*.h5
+
+# Ambiente virtual
+venv/
+.venv/
+__pycache__/
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Resultados gerados
+resultados_churn_*.csv
+resultados_churn_*.xlsx
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
